@@ -1,0 +1,1 @@
+exports.search = require('../controllers/v1/search');
